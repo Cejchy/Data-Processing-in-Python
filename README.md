@@ -2,23 +2,20 @@
 
 The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
 
-<!-- 
-------
-## For students of Winter semester 2024/2025
+## Upcoming
 
-* Final project **deadline**: 6th of February 2025, **send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar. 
-------
--->
+0) Matching document: [link](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
 
-## MIDTERM: MARCH 31, 2025
+1) Submissions of project proposals
+2) Work-in-progress consultations
+3) Project submissions
 
-### Setup link
+Final project **deadline**: September 2025, but preferably **before 16th of June, 2025** (midnight).
 
-Deadline: 19:50 via the form.
+- **Send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
 
-[LINK](https://drive.google.com/file/d/14uWWQMhYYWXHhPY-hoYEugtXUT9KzByi/view?usp=share_link)
 
-## Informaton for the upcoming summer semester 2025
+## Information for the summer semester of 2025
 
 ## FAQ - pre semester
 
@@ -46,9 +43,10 @@ Here's your schedule with the semester beginning on February 17th:
 | 7 | 1/4 | S | Seminar 4: Midterm solution | Luboš | |
 | 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
 | 9 | 14/4 | L | Data science | Luboš | |
+| 9 | 15/4 | S | Seminar 5: Data science case-study | Vilém | |
 | 10 | 21/4 | - | No lecture - The Easter Monday | | |
 | 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
-| 11 | 29/4 | S | Seminar 5: Data science case-study | Vilém | Project proposal approval|
+| 11 | 29/4 | - |  | Luboš & Vilém | Project proposal approval|
 | 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
 | 13 | 12/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
 | 14 | 19/5 | - | | | |
